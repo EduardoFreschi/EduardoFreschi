@@ -1,6 +1,9 @@
-## Olá, eu sou o Eduardo Freschi
+## Olá devs
 
-<p style="font-size: 2rem">🚀 - Estudando para me tornar um desenvolvedor Full-Stack</p> <br>
+<p style="font-size: 2rem">Eu sou o Eduardo Freschi, sou um programador Front End, atualmente estou aprendendo e criando projetos com: 
+   
+    - <p><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"></p>
+    - CSS e iniciando os estudos em javascript e React</p> <br>
 
 
 <div align="center">
