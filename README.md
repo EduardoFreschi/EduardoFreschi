@@ -2,7 +2,7 @@
 
 <p style="font-size: 2rem">🚀 - Estudando para me tornar um desenvolvedor Full-Stack</p> <br>
 
-
+<a href="https://www.instagram.com/duhfreschi/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img> </a>
 
 
 <div align="center">
