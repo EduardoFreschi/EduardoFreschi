@@ -2,7 +2,6 @@
 
 <p style="font-size: 2rem">🚀 - Estudando para me tornar um desenvolvedor Full-Stack</p> <br>
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 
 
 
