@@ -12,10 +12,13 @@ Eu sou o Eduardo Freschi, sou um programador Front End, atualmente estou aprende
 <hr>
 <div align="center">
 Conecte-se comigo:
+
+   <br>
    <br>
 
-<p><a href="https://www.instagram.com/duhfreschi/"> <img src="https://user-images.githubusercontent.com/109780155/219070136-04852122-0131-4442-a5e1-c7ab0423f940.png" alt="logo-instagram" width="50px"</a>
-   <a target="_blank" href="https://www.facebook.com/eduardo.freschi"><img src="https://user-images.githubusercontent.com/109780155/219069928-147acf55-4bc2-4309-b31d-b7c651f37d08.png" alt="logo-instagram" width="52px"</a>   
+<p><a href="https://www.instagram.com/duhfreschi/"> <img src="https://user-images.githubusercontent.com/109780155/219070136-04852122-0131-4442-a5e1-c7ab0423f940.png" alt="logo-instagram" width="40px"</a>
+   <a href="https://www.facebook.com/eduardo.freschi"><img src="https://user-images.githubusercontent.com/109780155/219069928-147acf55-4bc2-4309-b31d-b7c651f37d08.png" alt="logo-instagram" width="40px"</a>   
+        <a href="[https://www.facebook.com/eduardo.freschi](https://www.linkedin.com/in/eduardo-freschi-9b154715b/)"><img src="https://user-images.githubusercontent.com/109780155/219071415-63914e3c-d6dc-4c22-afae-20780d33b5d0.png" alt="logo-instagram" width="40px"</a> 
 </p>
 </div>
 <br>
