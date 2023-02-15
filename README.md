@@ -14,7 +14,7 @@ Eu sou o Eduardo Freschi, sou um programador Front End, atualmente estou aprende
 Conecte-se comigo:
    <br>
    <br>
-<p><a target="_blank" href="https://www.instagram.com/duhfreschi/"> <img src="https://o.remove.bg/downloads/83b56f30-b692-4ecf-8688-c37b23be6c4f/kisspng-logo-computer-icons-white-instagram-5b2d14ce9aee38.2719900715296811026346-removebg-preview.png" alt="logo-instagram" width="50px"</a>
+<p><a href="https://www.instagram.com/duhfreschi/"> <img src="https://o.remove.bg/downloads/83b56f30-b692-4ecf-8688-c37b23be6c4f/kisspng-logo-computer-icons-white-instagram-5b2d14ce9aee38.2719900715296811026346-removebg-preview.png" alt="logo-instagram" width="50px"</a>
    <a target="_blank" href="https://www.facebook.com/eduardo.freschi"><img src="https://o.remove.bg/downloads/487dde61-bd3c-4846-9b42-86ee583bdf08/facebook-removebg-preview.png" alt="logo-instagram" width="52px"</a>   
 </p>
 </div>
